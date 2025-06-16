@@ -15,7 +15,7 @@ const HomePage = () => {
       <div id="content">
         <main className="py-0 px-[150px] w-full max-w-[1600px] min-h-[100vh]">
           <Hero />
-          <HomeAbout />
+          {/*<HomeAbout />*/}
           <HomeExperience />
           <HomeProjectsHero />
           <HomeProjects />

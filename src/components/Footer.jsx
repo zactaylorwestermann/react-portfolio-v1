@@ -22,7 +22,7 @@ const Footer = () => {
       </div>
       <div className="text-xs">
         <a className="p-[10px]" href="https://www.github.com">
-          <div>Designed & Built by Zac Taylor-Westermann</div>
+          <div>Zac Taylor-Westermann</div>
         </a>
       </div>
     </div>

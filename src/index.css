@@ -1,12 +1,8 @@
 @import "tailwindcss";
 
-:root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-}
-
 @layer utilities {
   .navbar-link-container {
-    @apply mx-[5px] relative text-sm;
+    @apply mx-[5px] relative;
   }
 
   .navbar-link-text {
